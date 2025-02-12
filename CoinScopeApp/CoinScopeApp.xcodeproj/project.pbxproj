@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		820892282D5CA06000F0B5AA /* CoinScopeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoinScopeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		82C813272D5CB09D0035FB34 /* CoinScopeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoinScopeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		8208922A2D5CA06000F0B5AA /* CoinScopeApp */ = {
+		82C813292D5CB09D0035FB34 /* CoinScopeApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = CoinScopeApp;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		820892252D5CA06000F0B5AA /* Frameworks */ = {
+		82C813242D5CB09D0035FB34 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8208921F2D5CA06000F0B5AA = {
+		82C8131E2D5CB09D0035FB34 = {
 			isa = PBXGroup;
 			children = (
-				8208922A2D5CA06000F0B5AA /* CoinScopeApp */,
-				820892292D5CA06000F0B5AA /* Products */,
+				82C813292D5CB09D0035FB34 /* CoinScopeApp */,
+				82C813282D5CB09D0035FB34 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		820892292D5CA06000F0B5AA /* Products */ = {
+		82C813282D5CB09D0035FB34 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				820892282D5CA06000F0B5AA /* CoinScopeApp.app */,
+				82C813272D5CB09D0035FB34 /* CoinScopeApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		820892272D5CA06000F0B5AA /* CoinScopeApp */ = {
+		82C813262D5CB09D0035FB34 /* CoinScopeApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 820892362D5CA06100F0B5AA /* Build configuration list for PBXNativeTarget "CoinScopeApp" */;
+			buildConfigurationList = 82C813352D5CB09D0035FB34 /* Build configuration list for PBXNativeTarget "CoinScopeApp" */;
 			buildPhases = (
-				820892242D5CA06000F0B5AA /* Sources */,
-				820892252D5CA06000F0B5AA /* Frameworks */,
-				820892262D5CA06000F0B5AA /* Resources */,
+				82C813232D5CB09D0035FB34 /* Sources */,
+				82C813242D5CB09D0035FB34 /* Frameworks */,
+				82C813252D5CB09D0035FB34 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				8208922A2D5CA06000F0B5AA /* CoinScopeApp */,
+				82C813292D5CB09D0035FB34 /* CoinScopeApp */,
 			);
 			name = CoinScopeApp;
 			packageProductDependencies = (
 			);
 			productName = CoinScopeApp;
-			productReference = 820892282D5CA06000F0B5AA /* CoinScopeApp.app */;
+			productReference = 82C813272D5CB09D0035FB34 /* CoinScopeApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		820892202D5CA06000F0B5AA /* Project object */ = {
+		82C8131F2D5CB09D0035FB34 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					820892272D5CA06000F0B5AA = {
+					82C813262D5CB09D0035FB34 = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = 820892232D5CA06000F0B5AA /* Build configuration list for PBXProject "CoinScopeApp" */;
+			buildConfigurationList = 82C813222D5CB09D0035FB34 /* Build configuration list for PBXProject "CoinScopeApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 8208921F2D5CA06000F0B5AA;
+			mainGroup = 82C8131E2D5CB09D0035FB34;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 820892292D5CA06000F0B5AA /* Products */;
+			productRefGroup = 82C813282D5CB09D0035FB34 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				820892272D5CA06000F0B5AA /* CoinScopeApp */,
+				82C813262D5CB09D0035FB34 /* CoinScopeApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		820892262D5CA06000F0B5AA /* Resources */ = {
+		82C813252D5CB09D0035FB34 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		820892242D5CA06000F0B5AA /* Sources */ = {
+		82C813232D5CB09D0035FB34 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		820892342D5CA06100F0B5AA /* Debug */ = {
+		82C813332D5CB09D0035FB34 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		820892352D5CA06100F0B5AA /* Release */ = {
+		82C813342D5CB09D0035FB34 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		820892372D5CA06100F0B5AA /* Debug */ = {
+		82C813362D5CB09D0035FB34 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -255,11 +255,11 @@
 				DEVELOPMENT_TEAM = 7DMC37ZTG5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = CoinScope;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -273,7 +273,7 @@
 			};
 			name = Debug;
 		};
-		820892382D5CA06100F0B5AA /* Release */ = {
+		82C813372D5CB09D0035FB34 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -284,11 +284,11 @@
 				DEVELOPMENT_TEAM = 7DMC37ZTG5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = CoinScope;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -305,25 +305,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		820892232D5CA06000F0B5AA /* Build configuration list for PBXProject "CoinScopeApp" */ = {
+		82C813222D5CB09D0035FB34 /* Build configuration list for PBXProject "CoinScopeApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				820892342D5CA06100F0B5AA /* Debug */,
-				820892352D5CA06100F0B5AA /* Release */,
+				82C813332D5CB09D0035FB34 /* Debug */,
+				82C813342D5CB09D0035FB34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		820892362D5CA06100F0B5AA /* Build configuration list for PBXNativeTarget "CoinScopeApp" */ = {
+		82C813352D5CB09D0035FB34 /* Build configuration list for PBXNativeTarget "CoinScopeApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				820892372D5CA06100F0B5AA /* Debug */,
-				820892382D5CA06100F0B5AA /* Release */,
+				82C813362D5CB09D0035FB34 /* Debug */,
+				82C813372D5CB09D0035FB34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 820892202D5CA06000F0B5AA /* Project object */;
+	rootObject = 82C8131F2D5CB09D0035FB34 /* Project object */;
 }
